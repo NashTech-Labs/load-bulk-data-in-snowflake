@@ -1,0 +1,1 @@
+# load-bulk-data-in-snowflake
